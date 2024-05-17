@@ -12,7 +12,7 @@ This repo is an exploratory data analysis based on the dataset [*Gaming Habits a
 
 ## Files to Reference
 - GitHub Files for grading;
-    - *final_analysis* folder is where the final_analysis.ipynb file for the assignment is located
+    - *final_analysis* folder is where the final_analysis.ipynb file for the assignment is located as well as the slide deck we used for the live presentation in pdf format
     - *images* folder is where all the images used in the presentation is stored
     - *data* folder is where the initial raw data downloaded from Kaggle is stored
     - *data_cleanup* folder is where the notebook and cleaned up data file that each person used for their own analysis is located
